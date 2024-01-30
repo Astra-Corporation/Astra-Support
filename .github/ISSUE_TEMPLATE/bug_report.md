@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us understand and fix broken features or functionality
-  within Adonis.
+  within Astra.
 title: ''
 labels: bug
 assignees: Expertcoderz
