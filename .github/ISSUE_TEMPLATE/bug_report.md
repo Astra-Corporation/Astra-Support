@@ -4,8 +4,7 @@ about: Create a report to help us understand and fix broken features or function
   within Astra.
 title: ''
 labels: bug
-assignees: Expertcoderz
-
+assignees: EasternBloxxer
 ---
 
 - What are the steps that lead to the bug occurring? / How frequently does the bug occur?
